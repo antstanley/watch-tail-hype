@@ -4,9 +4,9 @@
 
 **A 30-second, manga-style trailer for [watch-tail](https://github.com/antstanley/watch-tail), drawn frame by frame with p5.js.**
 
-<a href="video/watch-tail-hype-manga-720p.mp4"><img src="video/poster.jpg" alt="The end card: the watch-tail puppy next to the watch-tail logo, 'Tail logs. Wag tails.' and npx watch-tail" width="960"></a>
+https://github.com/user-attachments/assets/a25c1739-f139-4c3e-bf1f-9e86f4d61898
 
-[720p, 9.7 MB](video/watch-tail-hype-manga-720p.mp4) · [1080p60 original, 79 MB](video/watch-tail-hype-manga.mp4)
+Download: [720p, 9.7 MB](video/watch-tail-hype-manga-720p.mp4) · [1080p60 original, 79 MB](video/watch-tail-hype-manga.mp4)
 
 </div>
 
